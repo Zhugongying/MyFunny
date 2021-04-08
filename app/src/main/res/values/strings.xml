@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyFunny</string>
+    <string name="menu_home">首页</string>
+    <string name="menu_search">发现</string>
+    <string name="menu_extension">扩展</string>
+    <string name="menu_mine">我的</string>
+</resources>
