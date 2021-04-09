@@ -14,6 +14,8 @@ import android.view.ViewGroup;
 
 import com.zhugy.myfunny.R;
 
+
+
 public class HomeFragment extends Fragment {
 
     private HomeViewModel mViewModel;
@@ -25,6 +27,8 @@ public class HomeFragment extends Fragment {
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container,
                              @Nullable Bundle savedInstanceState) {
+
+
         return inflater.inflate(R.layout.home_fragment, container, false);
     }
 
