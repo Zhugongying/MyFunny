@@ -7,6 +7,6 @@
         android:layout_width="match_parent"
         android:layout_height="44dp"
         android:id="@+id/nav_recyclerview"
-        android:background="#ff6fffff"/>
+        android:background="@color/bisque"/>
 
 </LinearLayout>
